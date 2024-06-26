@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript**
 
+- 💻 I am currently pursuing a degree in **Computer Science at the Pontifical Catholic University of Rio de Janeiro**
+
 - 👨‍💻 All of my projects are available at [https://github.com/joaohdib](https://github.com/joaohdib)
 
 - 💬 Ask me about **Python, AdvPL, C**
