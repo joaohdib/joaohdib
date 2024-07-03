@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [estudosJS](https://github.com/joaohdib/estudosJS/)
 
-- 🌱 I’m currently learning **JavaScript, TypeScript**
+- 🌱 I’m currently learning **Node.js**
 
 - 💻 I’m currently pursuing a degree in **Computer Science at the Pontifical Catholic University of Rio de Janeiro**
 
