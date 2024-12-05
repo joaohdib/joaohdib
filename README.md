@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [tasks](https://github.com/joaohdib/tasks)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaohdib](https://github.com/joaohdib)
 
-- 💬 Ask me about **Python, JavaScript, C**
+- 💬 Ask me about **Python, JavaScript, ADVPL**
 
 - 📫 How to reach me **joaohdib@gmail.com**
 
