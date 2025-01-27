@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaohdib](https://github.com/joaohdib)
 
-- 💬 Ask me about **Python, JavaScript, ADVPL**
+- 💬 Ask me about **Python, NodeJS, Angular**
 
 - 📫 How to reach me **joaohdib@gmail.com**
 
