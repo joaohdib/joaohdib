@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Henrique Dib</h1>
-<h3 align="center">Aspiring Full Stack Developer | Intern at Brit Consultoria</h3>
+<h3 align="center"> Full Stack Developer | Intern at Brit Consultoria</h3>
 
 - 🔭 I’m currently working on [MyFinance](https://github.com/joaohdib/MyFinance)
 
