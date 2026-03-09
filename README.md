@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Henrique Dib</h1>
 <h3 align="center"> Full Stack Developer | Intern at BRIT Consultoria</h3>
 
-- 🔭 I’m currently working on [MyFinance](https://github.com/joaohdib/MyFinance)
-
 - 🌱 I’m currently learning **Angular, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaohdib](https://github.com/joaohdib)
