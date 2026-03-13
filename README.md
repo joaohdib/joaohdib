@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm João Henrique Dib</h1>
-<h3 align="center"> Full Stack Developer | Intern at BRIT Consultoria</h3>
+<h3 align="center"> Full Stack Developer </h3>
 
 - 🌱 I’m currently learning **Angular, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaohdib](https://github.com/joaohdib)
 
-- 💬 Ask me about **Python, JavaScript, NodeJS, Angular**
+- 💬 Ask me about **Python, TypeScript, NodeJS, Angular**
 
 - 📫 How to reach me **joaohdib@gmail.com**
 
